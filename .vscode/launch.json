@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AddLL1",
+            "request": "launch",
+            "mainClass": "AddLL1",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "LL1",
+            "request": "launch",
+            "mainClass": "LL1",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Prefix2",
+            "request": "launch",
+            "mainClass": "Prefix2",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "LengthLongestSubarr",
+            "request": "launch",
+            "mainClass": "LengthLongestSubarr",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubarrK",
+            "request": "launch",
+            "mainClass": "LongestSubarrK",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Longestsubstrk",
+            "request": "launch",
+            "mainClass": "Longestsubstrk",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Longestsubr",
+            "request": "launch",
+            "mainClass": "Longestsubr",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "CinemaSeats",
+            "request": "launch",
+            "mainClass": "CinemaSeats",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "SmartCity",
+            "request": "launch",
+            "mainClass": "SmartCity",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Merging",
+            "request": "launch",
+            "mainClass": "Merging",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Rotatektimes",
+            "request": "launch",
+            "mainClass": "Rotatektimes",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "minmax",
+            "request": "launch",
+            "mainClass": "minmax",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Poly2",
+            "request": "launch",
+            "mainClass": "Poly2",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Poly1",
+            "request": "launch",
+            "mainClass": "Poly1",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Interface1",
+            "request": "launch",
+            "mainClass": "Interface1",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Abstract1",
+            "request": "launch",
+            "mainClass": "Abstract1",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "AntiCheatSystem",
+            "request": "launch",
+            "mainClass": "AntiCheatSystem",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "TrainBooking",
+            "request": "launch",
+            "mainClass": "TrainBooking",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "PasswordChecker",
+            "request": "launch",
+            "mainClass": "PasswordChecker",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "StudentResult",
+            "request": "launch",
+            "mainClass": "StudentResult",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "ATMWithdrawal",
+            "request": "launch",
+            "mainClass": "ATMWithdrawal",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenGame",
+            "request": "launch",
+            "mainClass": "OddEvenGame",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "LoginSystem",
+            "request": "launch",
+            "mainClass": "LoginSystem",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "ElectricityBill",
+            "request": "launch",
+            "mainClass": "ElectricityBill",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "TrafficFine",
+            "request": "launch",
+            "mainClass": "TrafficFine",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "VendingMachine",
+            "request": "launch",
+            "mainClass": "VendingMachine",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "tcsipa2",
+            "request": "launch",
+            "mainClass": "tcsipa2",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "tcsipa1",
+            "request": "launch",
+            "mainClass": "tcsipa1",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Encaps1",
+            "request": "launch",
+            "mainClass": "Encaps1",
+            "projectName": "new abc_e915fe93"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "GradeCalculator",
+            "projectName": "new abc_e915fe93"
+        },
+        {
+            "type": "java",
+            "name": "Grades",
+            "request": "launch",
+            "mainClass": "Grades",
+            "projectName": "new abc_e915fe93"
+        },
+        {
+            "type": "java",
+            "name": "Warehouse",
+            "request": "launch",
+            "mainClass": "Warehouse",
+            "projectName": "new abc_e915fe93"
+        },
+        {
+            "type": "java",
+            "name": "wrehouse",
+            "request": "launch",
+            "mainClass": "wrehouse",
+            "projectName": "new abc_e915fe93"
+        },
+        {
+            "type": "java",
+            "name": "ElectricityBill",
+            "request": "launch",
+            "mainClass": "ElectricityBill",
+            "projectName": "new abc_e915fe93"
+        },
+        {
+            "type": "java",
+            "name": "Parking",
+            "request": "launch",
+            "mainClass": "Parking",
+            "projectName": "new abc_e915fe93"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "new abc_e915fe93"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
