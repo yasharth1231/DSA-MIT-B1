@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BalanceP",
+            "request": "launch",
+            "mainClass": "BalanceP",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
+            "name": "Stack1",
+            "request": "launch",
+            "mainClass": "Stack1",
+            "projectName": "Training_3afc6269"
+        },
+        {
+            "type": "java",
             "name": "AddLL1",
             "request": "launch",
             "mainClass": "AddLL1",
